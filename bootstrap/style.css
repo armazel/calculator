@@ -1,0 +1,52 @@
+.square { 
+    position: absolute; top: +200px; left: +900px;
+}
+
+.sizebutton{
+     
+    padding-left: 75px;
+
+}
+.clear
+{
+    padding-right: 66px;
+   position: absolute;
+    
+}
+
+.point{
+    padding-right: 22px;
+}
+
+.answer{
+    padding-right: 115px;
+     position: absolute;
+    right: 10px;
+}
+.plus{
+    padding-left: 15px;
+}
+
+.textline{
+    padding-right: 200px;
+    padding-top: 50px;
+}
+
+.letter { 
+     color: red; /* Красный цвет символов */ 
+     font-size: 200%; /* Размер шрифта в процентах */ 
+     font-family: serif; /* Шрифт с засечками */ 
+     position: relative; /* Относительное позиционирование */ 
+     top: 5px; /* Сдвиг сверху */
+    
+}
+    .txtarea{
+        width: 185px;
+        top: 20px;
+    
+    }
+
+.area{
+    padding-left: 13px;
+    background: #778899;
+}
